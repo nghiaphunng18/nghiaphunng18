@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nghiaphunng18&label=Profile%20views&color=0e75b6&style=flat" alt="nghiaphunng18" /> </p>
 
-- 🌱 I’m currently learning **NLP and MML**
+- 🌱 I’m currently learning **NLP and LLM**
 
 - 📫 How to reach me **nghiaphung18z@gmail.com**
 
